@@ -44,8 +44,14 @@ $ nest g controller Todo
 $ nest g resource users
 
 # Module install
+
+```bash
 $ npm i @nestjs/mapped-types
+```
+
+```bash
 $ npm install --save @nestjs/mongoose mongoose
+```
 
 ```bash
 $ npm install
