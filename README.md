@@ -27,22 +27,12 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
-# TodoModule
-$ nest g module Todo
-# Using alias: nest g mo Todo
 
-# TodoService
-$ nest g service Todo
-# Using alias: nest g s Todo
+# Create component Lengkap
 
-# TodoController
-
-$ nest g controller Todo 
-# Using alias: nest g co Todo
-
-# Create component
+```bash
 $ nest g resource users
-
+```
 # Module install
 
 ```bash
